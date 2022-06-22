@@ -7,3 +7,5 @@ https://medium.com/analytics-vidhya/create-a-random-password-generator-using-pyt
 https://hackr.io/blog/python-projects
 
 https://automatetheboringstuff.com/
+
+https://youtu.be/8ext9G7xspg
