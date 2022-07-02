@@ -1,6 +1,6 @@
 
 QUESTIONS = [
-    ("Where does Wentao go to school'", "Yale-NUS College"),
+    ("Where does Wentao go to school", "Yale-NUS College"),
     ("How old is Wentao", "22"),
     ("What is Wentao's major in college", " Computer Science"),
 ]
